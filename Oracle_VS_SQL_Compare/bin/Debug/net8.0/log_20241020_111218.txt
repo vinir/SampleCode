@@ -1,0 +1,2 @@
+20-10-2024 11:12:23: Log File: D:\Testing_PoC\Oracle_VS_SQL_Compare\bin\Debug\net8.0\log_20241020_111218.txt
+20-10-2024 11:12:25: Connecting SQL Server
