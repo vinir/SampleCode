@@ -13,7 +13,7 @@ namespace Oracle_VS_SQL_Compare
 {
     internal class Program
     {
-        static string key = "$tr!delyHACbbTestK@y@2024";
+        static string key = "";
         static string logFilePath = "";
         static void Main(string[] args)
         {
